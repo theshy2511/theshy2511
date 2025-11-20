@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Khang's Profile! 👋</h1>
-<h1 align="center">Welcome to GreenBook!</h1>
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/51/2f/c3/512fc362a4ca2663778db016c2b7f703.gif" alt="GreenBook Banner" width="360"/>
+  <img src="https://i.pinimg.com/originals/c3/e1/e4/c3e1e47113a4bea928309e341b245dac.gif" alt="GreenBook Banner" width="720"/>
 </p>
 
 🌐 [GreenBook Website](http://theshy2511.somee.com)
