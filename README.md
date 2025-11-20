@@ -6,7 +6,6 @@
 
 🌐 [GreenBook Website](http://theshy2511.somee.com)
 
-## 💻 My name is Khang! 😊
 - 🔗 [GreenBook web demo](http://theshy2511.somee.com)
 - 🎓 Student at HUIT
 - 💡 Interested in Python
